@@ -8,6 +8,6 @@
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=5qu5rr00mkafcj23poq55q1zw&width=500&count=5)
 
-#### ૮꒰ྀི ⸝⸝´ ˘ `⸝⸝ ꒱ྀིა
+#### ૮꒰ྀི ⸝⸝´ ˘ `⸝⸝ ꒱ྀིა 🎀 🛼
 
 ![😻](./pic/orangecat.jpg)
