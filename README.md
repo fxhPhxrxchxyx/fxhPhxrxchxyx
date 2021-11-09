@@ -10,4 +10,4 @@
 
 #### ૮꒰ྀི ⸝⸝´ ˘ `⸝⸝ ꒱ྀིა 🎀 🛼
 
-![😻](./pic/orangecat.jpg)
+![😻](./jae/orangecat.jpg)
