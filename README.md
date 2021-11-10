@@ -4,6 +4,8 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fxhPhxrxchxyx&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fxhPhxrxchxyx&layout=compact&theme=jolly)
+
 ### ⁺◟☁︎ ꒰ fxh'mood ꒱₊˚ ✨
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=5qu5rr00mkafcj23poq55q1zw&width=500&count=5)
