@@ -1,12 +1,12 @@
 # ‎⁺◟☁︎ fxh ૮꒰ྀི⸝⸝മ ˕ മ⸝⸝꒱ྀིა ₊˚ ♡
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=96AFF7&width=435&lines=Wellcome+to+my+profile%E2%9C%A8)](https://git.io/typing-svg)
-
+<div align="center">    
+    
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=500&size=25&pause=1000&color=96AFF7&width=435&lines=wellcome+to+fxh's+profile%E2%9C%A8)](https://git.io/typing-svg)  
+    
 </div>
 
-<h1 align="center">Hello my name is Phurichaya Khemvaraporn🧚🏻‍♀️<h1/>
+<h1 align="center">Hello my name is Phurichaya Khemvaraporn(Fah)🧚🏻‍♀️<h1/>
 
 <br/>
 contact me via
