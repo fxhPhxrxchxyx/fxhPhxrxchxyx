@@ -25,18 +25,18 @@ contact me via
 <h1 >
 <h4>Web Developement </h4>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,vite,bootstrap,redux,react,materialui)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,vite,bootstrap,redux,react,nextjs,materialui)](https://skillicons.dev)
 <br/>
 
 [![My Skills](https://skillicons.dev/icons?i=express,nodejs,mongodb,mysql)](https://skillicons.dev)
 
 <h4>Program languages</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,java,py,c,r)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,java,go,py,c,r)](https://skillicons.dev)
 
 <h4>Others<h4/>
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,flutter,dart,androidstudio,kotlin,linux,firebase,figma,ai,ps,pr)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,flutter,dart,androidstudio,linux,docker,firebase,azure,googlecloud,gitlab,git,figma,ai,ps,pr)](https://skillicons.dev)
 
 <h1 >
 <h4>detail<h4/>
