@@ -1,4 +1,4 @@
-# ‎⁺◟☁︎ fxh ૮꒰ྀི⸝⸝മ ˕ മ⸝⸝꒱ྀིა ₊˚ ♡
+# ‎⁺◟☁︎ fxh ૮⸝⸝മ ˕ മ⸝⸝ა ₊˚ ♡
 
 <div align="center">    
     
@@ -39,8 +39,6 @@ contact me via
 
 [![My Skills](https://skillicons.dev/icons?i=arduino,flutter,dart,androidstudio,linux,docker,firebase,azure,googlecloud,gitlab,git,grafana,figma,ai,ps,pr,latex)](https://skillicons.dev)
 </details>
-
-<h4>graph<h4/>
 
 ![Github Stat](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fxhPhxrxchxyx&theme=dracula)
 
